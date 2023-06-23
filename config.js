@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'GHOST MODZ'
+global.ownername = 'Roxo'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['99999999999','6289515629775','6281387545144']
-global.premium = ['6281387545144']
-global.packname = 'Ghst Modz'
-global.author = 'WhatsApp Bot'
+global.owner = ['6281387545144','6289515629775']
+global.premium = ['6281387545144','6289515629775']
+global.packname = 'Roxo Modz'
+global.author = 'Only Virus Bot'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -34,7 +34,7 @@ global.mess = {
     success: '✓ Success',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner',
+    owner: 'Fitur Khusus Roxo and Malik',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
@@ -46,7 +46,7 @@ global.limitawal = {
     free: 100
 }
 global.thumb = fs.readFileSync('./lib/jo.jpg')
-global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
+global.visoka = { url: 'https://telegra.ph/file/a423f2224263e073b2618.mp4' }
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
